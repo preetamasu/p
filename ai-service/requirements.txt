@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg
+pydantic-settings
+python-dotenv
+langchain
+langchain-core
+langchain-community
+sentence-transformers
+langchain-text-splitters
+langchain-aws
+chromadb
+bedrock-agentcore
+supabase
+boto3
+langgraph
